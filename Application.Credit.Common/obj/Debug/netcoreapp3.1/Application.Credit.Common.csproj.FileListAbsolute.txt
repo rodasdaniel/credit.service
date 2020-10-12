@@ -1,0 +1,5 @@
+E:\Prueba SISTE\backupCode\Credit.Service\Application.Credit.Common\bin\Debug\netcoreapp3.1\Application.Credit.Common.deps.json
+E:\Prueba SISTE\backupCode\Credit.Service\Application.Credit.Common\bin\Debug\netcoreapp3.1\Application.Credit.Common.dll
+E:\Prueba SISTE\backupCode\Credit.Service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.csprojAssemblyReference.cache
+E:\Prueba SISTE\backupCode\Credit.Service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.AssemblyInfoInputs.cache
+E:\Prueba SISTE\backupCode\Credit.Service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.AssemblyInfo.cs

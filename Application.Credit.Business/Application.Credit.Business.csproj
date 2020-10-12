@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.Credit.Common\Application.Credit.Common.csproj" />
+    <ProjectReference Include="..\Application.Credit.Dtos\Application.Credit.Dtos.csproj" />
+    <ProjectReference Include="..\Domain.Credit.Entities\Domain.Credit.Entities.csproj" />
+    <ProjectReference Include="..\Infrastructure.Credit.Agents\Infrastructure.Credit.Agents.csproj" />
+    <ProjectReference Include="..\Infrastructure.Credit.Data\Infrastructure.Credit.Data.csproj" />
+  </ItemGroup>
+
+</Project>
