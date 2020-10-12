@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Credit.API\\Credit.API.csproj": {}
+    "E:\\Prueba SISTE\\Code\\credit.service\\Credit.API\\Credit.API.csproj": {}
   },
   "projects": {
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Business\\Application.Credit.Business.csproj": {
+    "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Business\\Application.Credit.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Business\\Application.Credit.Business.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Business\\Application.Credit.Business.csproj",
         "projectName": "Application.Credit.Business",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Business\\Application.Credit.Business.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Business\\Application.Credit.Business.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Business\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,20 +33,20 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Common\\Application.Credit.Common.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Common\\Application.Credit.Common.csproj"
+              "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\Application.Credit.Common.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\Application.Credit.Common.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj"
+              "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj"
+              "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj"
+              "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj"
+              "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Common\\Application.Credit.Common.csproj": {
+    "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\Application.Credit.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Common\\Application.Credit.Common.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\Application.Credit.Common.csproj",
         "projectName": "Application.Credit.Common",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Common\\Application.Credit.Common.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\Application.Credit.Common.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Common\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -158,14 +158,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj": {
+    "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj",
         "projectName": "Application.Credit.Dtos",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Dtos\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -222,14 +222,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Credit.API\\Credit.API.csproj": {
+    "E:\\Prueba SISTE\\Code\\credit.service\\Credit.API\\Credit.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Credit.API\\Credit.API.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\credit.service\\Credit.API\\Credit.API.csproj",
         "projectName": "Credit.API",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Credit.API\\Credit.API.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Credit.API\\Credit.API.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Credit.API\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\credit.service\\Credit.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -251,8 +251,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Business\\Application.Credit.Business.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Business\\Application.Credit.Business.csproj"
+              "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Business\\Application.Credit.Business.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Business\\Application.Credit.Business.csproj"
               }
             }
           }
@@ -301,14 +301,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {
+    "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
         "projectName": "Domain.Credit.Entities",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -340,6 +340,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -359,14 +365,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj": {
+    "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj",
         "projectName": "Infrastructure.Credit.Agents",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Agents\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Agents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -388,11 +394,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Common\\Application.Credit.Common.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Common\\Application.Credit.Common.csproj"
+              "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\Application.Credit.Common.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\Application.Credit.Common.csproj"
               },
-              "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj"
+              "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj"
               }
             }
           }
@@ -430,14 +436,14 @@
         }
       }
     },
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj": {
+    "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj",
         "projectName": "Infrastructure.Credit.Data",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Data\\Infrastructure.Credit.Data.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Data\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -459,8 +465,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {
-                "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj"
+              "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\Application.Credit.Common.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Common\\Application.Credit.Common.csproj"
+              },
+              "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {
+                "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj"
               }
             }
           }

@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Application.Credit.Common\Application.Credit.Common.csproj" />
     <ProjectReference Include="..\Domain.Credit.Entities\Domain.Credit.Entities.csproj" />
   </ItemGroup>
 

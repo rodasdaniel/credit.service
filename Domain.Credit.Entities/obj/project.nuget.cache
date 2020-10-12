@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6dRAMeAzdWWo1MqPZvL51HUDERBD1r11InN9VMoRPe32e1Jnt24UOYumAu4+V0Y+brid/JpA0qF9vmohjb73Lw==",
+  "dgSpecHash": "ur16UnyI6msP+2+UTt8+Ln0sdI5MugkUlaxuy4SKYmgRcNXZ/8WpYz2AD7crGTLDRRvu3qBcleUG6M3VPVdTGQ==",
   "success": true,
-  "projectFilePath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

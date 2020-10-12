@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "abEjSVRPHLc1AynCHZARyPZsTfYfdlPA3FWDhmvlK5UzPmqNslpoDE+/Bznl401nNUebvpWKucswOKFMf8t4pg==",
+  "dgSpecHash": "ftEx6Z2hcGt1LKfj7KhY5EuJ7nInuAq8CPbtR8weBIXjpef7QZ1vCHsA7FsLsEY6OR5cbrniutevdtUfiB5WEA==",
   "success": true,
-  "projectFilePath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj",
+  "projectFilePath": "E:\\Prueba SISTE\\Code\\credit.service\\Application.Credit.Dtos\\Application.Credit.Dtos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

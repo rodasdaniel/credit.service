@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Credit.API</name>
+    </assembly>
+    <members>
+        <member name="T:Credit.API.Controllers.CreditController">
+            <summary>
+            Controlador encargado de realizar las operaciones de las cuotas
+            </summary>
+        </member>
+        <member name="M:Credit.API.Controllers.CreditController.Create(Application.Credit.Dtos.CreditDataDto)">
+            <summary>
+            Método a través del cual se crear un nuevo registro de crédito.
+            </summary>
+            <param name="credit">Representa los valores del crédito que desea ser creado.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Credit.API.Controllers.CreditController.GetById(System.Int64)">
+            <summary>
+            Método a través del cual se obtienen los datos de un crédito específico.
+            </summary>
+            <param name="idCredit">Representa el identificador único de un crédito específico.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Credit.API.Controllers.CreditController.GetByIdClient(System.Int64)">
+            <summary>
+            Método a través del cual se obtienen los datos de un listado de créditos para un cliente específico.
+            </summary>
+            <param name="idClient">Representa el identificador único de un cliente específico.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

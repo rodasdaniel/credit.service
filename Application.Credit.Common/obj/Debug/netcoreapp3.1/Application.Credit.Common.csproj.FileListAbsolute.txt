@@ -3,3 +3,14 @@ E:\Prueba SISTE\backupCode\Credit.Service\Application.Credit.Common\bin\Debug\ne
 E:\Prueba SISTE\backupCode\Credit.Service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.csprojAssemblyReference.cache
 E:\Prueba SISTE\backupCode\Credit.Service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.AssemblyInfoInputs.cache
 E:\Prueba SISTE\backupCode\Credit.Service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.AssemblyInfo.cs
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\bin\Debug\netcoreapp3.1\Application.Credit.Common.deps.json
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\bin\Debug\netcoreapp3.1\Application.Credit.Common.dll
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\bin\Debug\netcoreapp3.1\Application.Credit.Common.pdb
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.csprojAssemblyReference.cache
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.Resources.Messages.resources
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.csproj.GenerateResource.cache
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.AssemblyInfoInputs.cache
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.AssemblyInfo.cs
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.dll
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.pdb
+E:\Prueba SISTE\Code\credit.service\Application.Credit.Common\obj\Debug\netcoreapp3.1\Application.Credit.Common.csproj.CoreCompileInputs.cache

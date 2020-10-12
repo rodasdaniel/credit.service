@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EoT6pQuBzV8QWMqUgqa9jmDtY045I2CwJs99IrQIIZ9lxUxEh2ZnjVZSP9rvu1MMAmj3toK9nk2irJcYH6sebg==",
+  "dgSpecHash": "MIzPtF9XY1B2UEatK7HSC/kpHwMVC8mJTPuKw/w4g94txUVEV6cyGqokWLRUssc1JAfTI8F7PfViZlyFKew/7A==",
   "success": true,
-  "projectFilePath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj",
+  "projectFilePath": "E:\\Prueba SISTE\\Code\\credit.service\\Infrastructure.Credit.Agents\\Infrastructure.Credit.Agents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

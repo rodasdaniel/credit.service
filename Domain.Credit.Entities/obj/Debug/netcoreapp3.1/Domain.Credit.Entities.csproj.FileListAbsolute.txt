@@ -1,0 +1,9 @@
+E:\Prueba SISTE\Code\credit.service\Domain.Credit.Entities\bin\Debug\netcoreapp3.1\Domain.Credit.Entities.deps.json
+E:\Prueba SISTE\Code\credit.service\Domain.Credit.Entities\bin\Debug\netcoreapp3.1\Domain.Credit.Entities.dll
+E:\Prueba SISTE\Code\credit.service\Domain.Credit.Entities\bin\Debug\netcoreapp3.1\Domain.Credit.Entities.pdb
+E:\Prueba SISTE\Code\credit.service\Domain.Credit.Entities\obj\Debug\netcoreapp3.1\Domain.Credit.Entities.csprojAssemblyReference.cache
+E:\Prueba SISTE\Code\credit.service\Domain.Credit.Entities\obj\Debug\netcoreapp3.1\Domain.Credit.Entities.csproj.CoreCompileInputs.cache
+E:\Prueba SISTE\Code\credit.service\Domain.Credit.Entities\obj\Debug\netcoreapp3.1\Domain.Credit.Entities.AssemblyInfoInputs.cache
+E:\Prueba SISTE\Code\credit.service\Domain.Credit.Entities\obj\Debug\netcoreapp3.1\Domain.Credit.Entities.AssemblyInfo.cs
+E:\Prueba SISTE\Code\credit.service\Domain.Credit.Entities\obj\Debug\netcoreapp3.1\Domain.Credit.Entities.dll
+E:\Prueba SISTE\Code\credit.service\Domain.Credit.Entities\obj\Debug\netcoreapp3.1\Domain.Credit.Entities.pdb

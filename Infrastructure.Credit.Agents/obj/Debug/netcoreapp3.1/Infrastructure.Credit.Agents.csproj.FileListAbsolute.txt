@@ -3,3 +3,17 @@ E:\Prueba SISTE\backupCode\Credit.Service\Infrastructure.Credit.Agents\bin\Debug
 E:\Prueba SISTE\backupCode\Credit.Service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.csprojAssemblyReference.cache
 E:\Prueba SISTE\backupCode\Credit.Service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.AssemblyInfoInputs.cache
 E:\Prueba SISTE\backupCode\Credit.Service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.AssemblyInfo.cs
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\bin\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.deps.json
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\bin\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.dll
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\bin\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.pdb
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\bin\Debug\netcoreapp3.1\Application.Credit.Common.dll
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\bin\Debug\netcoreapp3.1\Application.Credit.Dtos.dll
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\bin\Debug\netcoreapp3.1\Application.Credit.Common.pdb
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\bin\Debug\netcoreapp3.1\Application.Credit.Dtos.pdb
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.csprojAssemblyReference.cache
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.csproj.CoreCompileInputs.cache
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.AssemblyInfoInputs.cache
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.AssemblyInfo.cs
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.csproj.CopyComplete
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.dll
+E:\Prueba SISTE\Code\credit.service\Infrastructure.Credit.Agents\obj\Debug\netcoreapp3.1\Infrastructure.Credit.Agents.pdb

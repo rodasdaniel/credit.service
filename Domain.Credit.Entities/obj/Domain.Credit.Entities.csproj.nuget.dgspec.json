@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {}
+    "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {}
   },
   "projects": {
-    "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {
+    "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
+        "projectUniqueName": "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
         "projectName": "Domain.Credit.Entities",
-        "projectPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
+        "projectPath": "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\Domain.Credit.Entities.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Prueba SISTE\\backupCode\\Credit.Service\\Domain.Credit.Entities\\obj\\",
+        "outputPath": "E:\\Prueba SISTE\\Code\\credit.service\\Domain.Credit.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -43,6 +43,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
