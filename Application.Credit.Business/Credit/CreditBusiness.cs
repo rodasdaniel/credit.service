@@ -5,7 +5,6 @@ using Domain.Credit.Entities;
 using Infrastructure.Credit.Agents;
 using Infrastructure.Credit.Data.Repository;
 using Microsoft.Extensions.Configuration;
-using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
